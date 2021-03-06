@@ -17,7 +17,7 @@ const mix = require('laravel-mix');
 
     mix.options({
         hmrOptions: {
-            host: 'domain-name.pl', //change for domain that you set in hosts file 
+            host: 'boilerplate.loc', //change for domain that you set in hosts file 
             port: 8080,
         }
      });
